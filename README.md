@@ -4,7 +4,7 @@ This project is a Node.js-based registration system that allows users to registe
 
 ## Techstack
 
-![Add a subheading](thumbnails/Add a subheading.jpg)
+![Add a subheading](thumbnails/Add_a_subheading.jpg)
 
 
 ## Features
