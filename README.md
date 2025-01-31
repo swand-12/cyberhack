@@ -4,7 +4,7 @@ This project is a Node.js-based registration system that allows users to registe
 
 ## Techstack
 
-![Add a subheading](https://hackmd.io/_uploads/ryqOl95OJx.jpg)
+![Add a subheading](thumbnails/Add a subheading.jpg)
 
 
 ## Features
