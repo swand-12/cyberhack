@@ -10,7 +10,7 @@ This project is a Node.js-based registration system that allows users to registe
 ## Features
 **User Registration**:
 
-![Screenshot (5)](https://hackmd.io/_uploads/ByQi9Kq_kg.png)
+![Screenshot (5)](thumbnails/Screenshot1.png)
 
 Users can register by providing their name and uploading an image.
 
@@ -28,7 +28,7 @@ If the facial recognition match is above a threshold (0.75), registration is den
 
 As shown:
 
-![Screenshot 2025-01-31 230923](https://hackmd.io/_uploads/S16xoKqd1e.png)
+![Screenshot 2025-01-31 230923](thumbnails/Screenshot2.png)
 
 **Social Network Features:**
 
